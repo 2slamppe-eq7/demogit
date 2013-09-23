@@ -1,0 +1,6 @@
+01/10/2012
+Site Lafleur
+version Session : 
+- authentification et contrôle d'accès par variables de session
+- mise en oeuvre d'une classe statique MaSession
+
