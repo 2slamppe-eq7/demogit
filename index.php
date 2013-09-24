@@ -1,5 +1,6 @@
 <?php
-   echo 'VERSION de BOB';
+   echo 'VERSION d\'ALICE';
+   echo 'Spéciale';
    require_once ("./classe/MaSession.class.php");
    require_once("./modele/modele.inc.php");
    // Pour les contrôleurs, il faut vérifier :
